@@ -3,5 +3,6 @@ RENCANA SIA SMAN 2 KUALA KAPUAS
 -javascript
     *Es6
     *framwork javascript
+-Struktur data dasar
 -PHP
 -PHP FRAMWORK
