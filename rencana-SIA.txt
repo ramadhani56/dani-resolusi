@@ -1,4 +1,7 @@
 RENCANA SIA SMAN 2 KUALA KAPUAS
 -LARAVEL
+-javascript
+    *Es6
+    *framwork javascript
 -PHP
 -PHP FRAMWORK
