@@ -4,6 +4,7 @@ RENCANA SIA SMAN 2 KUALA KAPUAS
     *Es6
     *framwork javascript
     ^Vue
+    ^React
 -Struktur data dasar
 -PHP
 -PHP FRAMWORK
