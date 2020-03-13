@@ -3,6 +3,9 @@ RENCANA SIA SMAN 2 KUALA KAPUAS
 -javascript
     *Es6
     *framwork javascript
+    ^Vue
 -Struktur data dasar
 -PHP
 -PHP FRAMWORK
+   *laravel
+-Phyton
